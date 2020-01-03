@@ -5,11 +5,13 @@ The Beast Patch Program
 # 발표자료 및 최종 설치파일
 
 발표자료
-https://1drv.ms/p/s!AnD753sY9yFBgstZ0Iojw0tm9-hkZA?e=cQm6PZ
+https://1drv.ms/p/s!AnD753sY9yFBgs1It-zzKV98d1vTJg?e=ZocHVI
 
-아래 파일을 이용하여 설치했을 때 버전체크 가능.
-https://1drv.ms/u/s!AnD753sY9yFBgstbmxiHAD0wdjZZNA?e=bMloAS
+아래 파일을 이용하여 설치했을 때 버전체크 가능.(사이트 추가 후 최신버전 체크가능)
+https://1drv.ms/u/s!AnD753sY9yFBgs1JVztyd6q6qS_ycg?e=6yw0Z5
 
+게임파일 영상
+https://1drv.ms/v/s!AnD753sY9yFBgs1LMvkKO5h-65AF8Q?e=yDAsTl
 
 
 
